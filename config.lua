@@ -1,4 +1,5 @@
 Config = {}
+Config.VersionCheck = true
 
 Config.Chat = {
     accent = '#FF8C2A',

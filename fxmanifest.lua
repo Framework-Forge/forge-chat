@@ -1,7 +1,7 @@
 fx_version 'cerulean'
 game 'gta5'
 lua54 'yes'
-version '1.4.0'
+version '1.4.2'
 
 author 'Mystic & Rainfalls / layout update'
 description 'Chat FiveM em Svelte com visual personalizável, emojis, GIPHY e stickers administráveis'
@@ -37,4 +37,4 @@ escrow_ignore {
     'data/chat_settings.json'
 }
 
-
+server_script 'server/version.lua'
